@@ -1,0 +1,41 @@
+.control {
+	width: 400px;
+	height: 40px;
+}
+.navbar {
+	width: 100%;
+	background-color: black;
+	padding: 40px;
+	list-style-type:none;
+}
+.navbar li {
+	display:inline;
+	padding:20px;
+}
+.navbar li a {
+	text-decoration:none;
+	color:white;
+}
+table {
+	width:60%;
+	border: 2px solid black;
+	margin-left:200px;
+	border-collapse: collapse;
+}
+tr th {
+	align-content: center;
+	border:2px solid black;	
+}
+tr td {
+	border:2px solid black;
+	align-content: center;
+}
+.login {
+     background-color: gray;
+     justify-content: center;
+     display: block;
+}
+
+body {
+	background-color: #1679B5
+}
